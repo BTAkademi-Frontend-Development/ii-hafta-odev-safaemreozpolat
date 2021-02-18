@@ -2,10 +2,10 @@
 
 - Microsoft Azure AZ-900 ve AI-900 sertifikalarını almak için çalışmalara başlayınız.
 -
->>sadad
+
 >
 - Jekyll temelli kişisel web sayfası hazırlayıp Github reposunun linkini ekleyiniz.
--https://safaemreozpolat.github.io/porotfolio/
+>>https://safaemreozpolat.github.io/porotfolio/
 >
 >
 - Farklı HTML ve CSS kaynaklarını araştırarak linkleri ekleyiniz.
