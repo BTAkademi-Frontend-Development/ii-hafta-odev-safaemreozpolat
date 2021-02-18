@@ -3,10 +3,12 @@
 - Microsoft Azure AZ-900 ve AI-900 sertifikalarını almak için çalışmalara başlayınız.
 
 - Jekyll temelli kişisel web sayfası hazırlayıp Github reposunun linkini ekleyiniz.
+--https://safaemreozpolat.github.io/porotfolio/
 
 - Farklı HTML ve CSS kaynaklarını araştırarak linkleri ekleyiniz.
 
 - Freecodecamp'teki HTML5 eğitimine başlayınız.
+-- Başlandı 
 
 - CSS framework, CSS float property, CSS flexbox, CSS grid ile ilgili araştırmalarınızı yazınız?
 
