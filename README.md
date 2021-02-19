@@ -1,7 +1,7 @@
 # II-hafta-odev
 
 - Microsoft Azure AZ-900 ve AI-900 sertifikalarını almak için çalışmalara başlayınız.
->
+>Sertifika almak için Start verildi.AZ-900 ve AI-900 için
 
 >
 - Jekyll temelli kişisel web sayfası hazırlayıp Github reposunun linkini ekleyiniz.
@@ -23,7 +23,16 @@
 >
 >
 - HTM'de SVG, Canvas ile ilgili araştırmalar yapıp örnekler deneyiniz. Örnekleri bir Github reposunda paylaşabilirsiniz.
->
+>(Ekip Çalışması)
+<canvas id="safa" width="100" height="50" style ="border: 2px solid red">
+<script>
+var c = document.getElementById("safa");
+var ctx = c.getContext("2d");
+ctx.font = "16px Arial";
+ctx.fillText("hello world",15,25);
+</script> 
+
+
 >
 - HTML Encode ve URL Encode konularını araştırınız.
 >
