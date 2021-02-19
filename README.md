@@ -20,7 +20,7 @@
 >
 >
 - HTML5 yenilikleri nelerdir?
->
+><caption>(tablo başlığı) <summary>(göster gizle) en çok dikkatimi çeken yenilik oldu > Kaynak https://webodasi.com/html5-ile-gelen-yenilikler/
 >
 - HTM'de SVG, Canvas ile ilgili araştırmalar yapıp örnekler deneyiniz. Örnekleri bir Github reposunda paylaşabilirsiniz.
 >(Ekip Çalışması)
@@ -38,5 +38,5 @@ ctx.fillText("hello world",15,25);
 >
 >
 - HTML Form'u kullanarak bir örnek oluşturunuz. Örnekleri Github reposuna ekleyiniz. [Form için bir kaynak örneğini görmek için tıklayınız.](https://developer.mozilla.org/en-US/docs/Learn/Forms/Your_first_form)
->
->
+>https://github.com/safaemreozpolat/form
+
