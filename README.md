@@ -23,7 +23,7 @@
 >caption(tablo başlığı) summary(göster gizle) en çok dikkatimi çeken yenilikler oldu > Kaynak https://webodasi.com/html5-ile-gelen-yenilikler/
 >
 - HTM'de SVG, Canvas ile ilgili araştırmalar yapıp örnekler deneyiniz. Örnekleri bir Github reposunda paylaşabilirsiniz.
->Ekip Çalışması :) <br></br>
+>Ekip Çalışması :)
 `<canvas id="safa" width="100" height="50" style ="border: 2px solid red">
 <script>
 var c = document.getElementById("safa");
