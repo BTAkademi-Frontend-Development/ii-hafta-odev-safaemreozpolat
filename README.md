@@ -20,11 +20,12 @@
 >
 >
 - HTML5 yenilikleri nelerdir?
-><caption>(tablo başlığı) <summary>(göster gizle) en çok dikkatimi çeken yenilik oldu > Kaynak https://webodasi.com/html5-ile-gelen-yenilikler/
+>caption(tablo başlığı) summary(göster gizle) en çok dikkatimi çeken yenilikler oldu > Kaynak https://webodasi.com/html5-ile-gelen-yenilikler/
 >
 - HTM'de SVG, Canvas ile ilgili araştırmalar yapıp örnekler deneyiniz. Örnekleri bir Github reposunda paylaşabilirsiniz.
->(Ekip Çalışması)
-<br>canvas id="safa" width="100" height="50" style ="border: 2px solid red">
+>Ekip Çalışması :) <br></br>
+
+canvas id="safa" width="100" height="50" style ="border: 2px solid red">
 <script>
 var c = document.getElementById("safa");
 var ctx = c.getContext("2d");
